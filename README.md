@@ -1,2 +1,2 @@
 # Go_learning
-Este pequeño repositorio está diseñado para poner en práctica lo aprendido en el lenguaje de programación GO.
+Este pequeño repositorio está diseñado para exponer los apuntes por medio de scripts aprendiendo las estructuras de datos y demás caracteristicas que posee el lenguaje de programación Go.
