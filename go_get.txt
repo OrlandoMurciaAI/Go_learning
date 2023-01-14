@@ -1,0 +1,12 @@
+Así como en python existe pip para el manejo y descarga
+de las librerias en go existe algo llamado get. 
+
+En go las librerías se pueden descargar de 
+"golang.org/x/website/tour" 
+
+con el comando 
+
+go get -v -u golang.org/x/website/tour 
+
+"el -u funciona para descargar nuevamente la libreria se hace 
+como una buena practica"
